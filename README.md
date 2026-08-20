@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Bilal
+## Hi there 👋, I'm Dhani
 
 I'm a self-taught **Backend Developer** from Quetta, Pakistan, focused on building production-ready APIs with AI integration.
 
