@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Dhani
 
-I'm a self-taught **Backend Developer** from Quetta, Pakistan, focused on building production-ready APIs with AI integration.
+I'm a self-taught **Backend Developer** focused on building production-ready APIs with AI integration.
 
 - 🔭 I'm currently working on **ProspectLens** — a B2B lead generation SaaS with AI-powered lead scoring and outreach drafting
 - 🌱 I'm currently deepening my skills in **FastAPI, AI system design, and production deployment**
